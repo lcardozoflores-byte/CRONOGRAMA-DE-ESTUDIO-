@@ -19,6 +19,7 @@
 ---
 
 ## ✍️ 2. Bitácora Personal de Estudio (¡Registra tus horas!)
+👉 ¡Atención alumnos! Para registrar sus horas de estudio y completar el seguimiento, ingresen a nuestra planilla oficial haciendo clic aquí: https://forms.gle/TYpyPwnhE7JK1kP28 
 
 > **Instrucciones para el alumno:** Cada vez que estudies, edita este archivo en GitHub (o copia la tablita en tus notas) y completa tus datos para llevar un control didáctico de tu dedicación.
 
