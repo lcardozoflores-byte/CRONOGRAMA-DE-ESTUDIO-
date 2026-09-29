@@ -1,33 +1,37 @@
-# 📚 Cronograma de Estudio - Grupo
+# 📚 Cronograma y Bitácora de Estudio: Octubre - Noviembre
 
-¡Bienvenidos al espacio de organización para nuestras próximas metas académicas! Aquí encontrarás el plan detallado para avanzar juntos, repasar y llegar preparados.
+¡Hola, equipo! Este es nuestro espacio oficial de organización para llegar con éxito a las metas de estudio. Aquí planificaremos las semanas y podremos llevar un registro claro de lo que vamos avanzando.
 
 ---
 
-## 🗓️ Planificación General
+## 🗓️ 1. Calendario General (Octubre y Noviembre)
 
-| Semana / Fase | Temas Clave | Estado | Responsable / Notas |
+| Mes | Semana / Fechas | Enfoque / Objetivo Principal | Estado |
 | :--- | :--- | :--- | :--- |
-| **Semana 1** (Día 1 al 5) | Introducción y Conceptos Básicos | 🔄 En proceso | Revisar bibliografía principal |
-| **Semana 2** (Día 6 al 10)| Profundización y Casos Prácticos | ⏳ Pendiente | Reunión de grupo |
-| **Semana 3** (Día 11 al 15)| Repaso General y Simulacro | ⏳ Pendiente | Resolver dudas finales |
+| **OCTUBRE** | **Sem. 1 (01 al 07)** | Introducción y conceptos clave | ⏳ Pendiente |
+| **OCTUBRE** | **Sem. 2 (08 al 14)** | Profundización teórica y lectura bibliográfica | ⏳ Pendiente |
+| **OCTUBRE** | **Sem. 3 (15 al 21)** | Análisis de casos prácticos y resolución de dudas | ⏳ Pendiente |
+| **OCTUBRE** | **Sem. 4 (22 al 31)** | Integración de unidades y primer simulacro | ⏳ Pendiente |
+| **NOVIEMBRE** | **Sem. 5 (01 al 07)** | Repaso intensivo de temas complejos | ⏳ Pendiente |
+| **NOVIEMBRE** | **Sem. 6 (08 al 14)** | Trabajos prácticos finales o autoevaluación | ⏳ Pendiente |
+| **NOVIEMBRE** | **Sem. 7 (15 al 30)** | Cierre, simulacro final y preparación para exámenes | ⏳ Pendiente |
 
 ---
 
-## 🚀 Cronograma Día a Día (¡Haz tu Check!)
+## ✍️ 2. Bitácora Personal de Estudio (¡Registra tus horas!)
 
-Marca las casillas a medida que vayamos completando los objetivos:
+> **Instrucciones para el alumno:** Cada vez que estudies, edita este archivo en GitHub (o copia la tablita en tus notas) y completa tus datos para llevar un control didáctico de tu dedicación.
 
-### Fase 1: Fundamentos
-- [ ] **Día 1:** Lectura de la unidad y subrayado de ideas principales.
-- [ ] **Día 2:** Debate en grupo sobre las dudas del primer tema.
-- [ ] **Día 3:** Elaboración de cuadros sinópticos o mapas conceptuales.
-- [ ] **Día 4:** Lectura de la siguiente unidad y ejemplos prácticos.
-- [ ] **Día 5:** Autoevaluación rápida con preguntas y respuestas entre nosotros.
+| Fecha (Día) | Hora de Estudio | Tema Estudiado / Actividad | ¿Completado? | Notas / Dudas |
+| :--- | :--- | :--- | :--- | :--- |
+| *Ej: 02/10* | *16:00 a 18:00 hs* | *Lectura Unidad 1 y resumen* | [x] Sí / [ ] No | *Repasar conceptos de la página 15* |
+| DD/MM | --:-- a --:-- hs | Escribe aquí el tema que estudiaste... | [ ] Sí / [ ] No | Escribe tus comentarios breves |
+| DD/MM | --:-- a --:-- hs | Escribe aquí el tema que estudiaste... | [ ] Sí / [ ] No | Escribe tus comentarios breves |
+| DD/MM | --:-- a --:-- hs | Escribe aquí el tema que estudiaste... | [ ] Sí / [ ] No | Escribe tus comentarios breves |
 
 ---
 
-## 💡 Recursos Didácticos y Enlaces Útiles
-* 📂 Carpeta de Apuntes / Google Drive
-* 🎥 Enlaces de clases o videos de repaso
-* 📝 Fichas de estudio
+## 🎯 3. Metas Didácticas y Tips de Constancia
+* 🍅 **Técnica Pomodoro:** Estudia 25 minutos concentrados y descansa 5 minutos.
+* 📝 **Active Recall:** Intenta explicar el tema con tus propias palabras después de leerlo en lugar de solo releer.
+* 🤝 **Apoyo Grupal:** Si te trabas con un tema en tu hora de estudio, déjalo anotado en la última columna para consultarlo con los compañeros.
