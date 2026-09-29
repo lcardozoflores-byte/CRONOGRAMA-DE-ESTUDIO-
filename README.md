@@ -1,1 +1,1 @@
-[github.com/cronograma-estudio](https://github.com/tu-usuario/cronograma-estudio)
+[github.com/josevega/cronograma-estudio](https://github.com/josevega/cronograma-estudio)
