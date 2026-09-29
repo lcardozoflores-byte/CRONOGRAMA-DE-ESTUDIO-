@@ -1,2 +1,1 @@
-# CRONOGRAMA-DE-ESTUDIO-
-README.md.
+[https://github.com/tu-usuario/cronograma-estudio]
